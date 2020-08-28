@@ -1,4 +1,6 @@
-### Hi there 👋
+```cpp
+### printf("Hello World");
+'''
 
 <!--
 **thunder-coding/thunder-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
