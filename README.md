@@ -1,4 +1,4 @@
-
+[![Follow me on Twitter](https://badgen.net/twitter/follow/CodingThunder)](https://twitter.com/CodingThunder)
 ## A computer addicted
 
 I create amazing things using the knowledge I have gained so far..
