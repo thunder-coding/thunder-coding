@@ -6,6 +6,15 @@ I create amazing things using the knowledge I have gained so far..
 
 <img src="https://github-readme-stats.vercel.app/api?username=thunder-coding&show_icons=true&hide_border=true&theme=radical">
 
+<details>
+  <summary>Connect with me</summary>
+
+[![Discord](https://img.shields.io/discord/739775771924627567?label=Discord&logo=discord&logoColor=738ADB&style=for-the-badge)](https://discord.gg/YMhxGjzsJ8)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff&label=Follow)](https://twitter.com/CodingThunder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/CodingThunder)
+</details>
+
+
 
 <details>
   <summary>My blogs</summary>
