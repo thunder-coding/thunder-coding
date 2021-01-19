@@ -11,7 +11,9 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
+     - uses: varunsridharan/action-hashnode-blog@main
        with:
-         # Replace this URL with your rss feed URL/s
-         feed_list: "https://codingthunder.hashnode.dev/rss.xml" 
+         USERNAME: "CodingThunder"
+       env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         COUNT: 5
