@@ -22,6 +22,10 @@ I create amazing things using the knowledge I have gained so far..
   <summary>My blogs</summary>
 
 <!-- HASHNODE_BLOG:START -->
+<h3><a href="https://codingthunder.hashnode.dev/some-amazing-cloud-ides-in-2021-ckl8zoryt039xpws10mpe82s2" title="Some amazing Cloud ☁️ IDEs in 2021">Some amazing Cloud ☁️ IDEs in 2021</a></h3>
+<a href="https://codingthunder.hashnode.dev/some-amazing-cloud-ides-in-2021-ckl8zoryt039xpws10mpe82s2" title="Some amazing Cloud ☁️ IDEs in 2021"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613539261859/eTz3Rd2hn.jpeg" alt="Some amazing Cloud ☁️ IDEs in 2021" width="400px" align="" /></a>
+<p>There are certainly many reasons why you should consider using an Online IDE. In Online IDEs all process run in cloud, you don't need to face any lags. 
+The previous year of Covid pandemic had made everyone work from home 🏡. Many Cloud IDEs became p...</p>
 <h3><a href="https://codingthunder.hashnode.dev/code-obfuscation-why-how-and-when-cki5nwnas0a8vans1cfgga6te" title="Code Obfuscation : Why, How & When...">Code Obfuscation : Why, How & When...</a></h3>
 <a href="https://codingthunder.hashnode.dev/code-obfuscation-why-how-and-when-cki5nwnas0a8vans1cfgga6te" title="Code Obfuscation : Why, How & When..."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606807765599/jGNXud0xc.jpeg" alt="Code Obfuscation : Why, How & When..." width="400px" align="" /></a>
 <p>With huge number of available code decompilers out there on the internet, it is becoming more important day by day to hide our source code, so that any reverse engineer cannot decompile it.
@@ -54,12 +58,5 @@ Some facts about TypeScript
 
 TypeScript was developed by Microsoft about 8 years ago (first public release: 1 October 2012)
 TypeScript is a...</p>
-<h3><a href="https://codingthunder.hashnode.dev/improve-your-typing-skills-as-a-developer-ckg3c3qw301z6e9s10tfl0fdi" title="Improve your typing skills as a developer">Improve your typing skills as a developer</a></h3>
-
-<p>Why should you improve your typing skills ??🤔
-==> Less typos
-==> Less typos means less time wasted while debugging an error in a huge file caused due to typos
-==> You can focus more on coding than on typing
-==> And ofcourse, you will type much faste...</p>
 <!-- HASHNODE_BLOG:END -->
 </details> 
