@@ -10,3 +10,7 @@ I create amazing things using the knowledge I have gained so far
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff&label=Follow)](https://twitter.com/CodingThunder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CodingThunder)
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakshbari4@gmail.com)
+
+# Sponsor me ❤️
+
+Bitcoin: `bitcoin:bc1qxclj04wefvrre367yeynqcwzv25250qm60thex`
