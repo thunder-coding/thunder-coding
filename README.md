@@ -13,12 +13,4 @@ I create amazing things using the knowledge I have gained so far
 
 # Sponsor me ❤️
 
-Bitcoin: `bitcoin:bc1qxclj04wefvrre367yeynqcwzv25250qm60thex`
-
-Ethereum: `0x002bfCA4F893e9122801d64E1FA33efDafF0cD4A`
-
-Dogecoin: `D6nZ2fptuYouc2shckb8htfhaFF3TPV1by`
-
-Litecoin: `Lf78LRXnGMCD7DSSdpGZJtLcCkEVGTiJ6A`
-
-For more information see https://codingthunder.me/sponsor/
+For more information see https://thunder-coding.github.io/sponsor/
